@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "tApoDbGCuolJROdvNSA4SzJlbBggA+F0yBLwlWkrAxi3SXWL+cq0B4jIYgW4ybOzJlqrrm7ksOc1mdJ5vZV+8g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\BRUNO\\Desktop\\ViewModelExemple\\ViewModelExemple.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BRUNO\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\BRUNO\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\BRUNO\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\BRUNO\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

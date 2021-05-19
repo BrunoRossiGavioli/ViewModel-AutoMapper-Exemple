@@ -1,0 +1,16 @@
+C:\Users\BRUNO\Desktop\ViewModelExemple\bin\Debug\netcoreapp3.1\ViewModelExemple.exe
+C:\Users\BRUNO\Desktop\ViewModelExemple\bin\Debug\netcoreapp3.1\ViewModelExemple.deps.json
+C:\Users\BRUNO\Desktop\ViewModelExemple\bin\Debug\netcoreapp3.1\ViewModelExemple.runtimeconfig.json
+C:\Users\BRUNO\Desktop\ViewModelExemple\bin\Debug\netcoreapp3.1\ViewModelExemple.runtimeconfig.dev.json
+C:\Users\BRUNO\Desktop\ViewModelExemple\bin\Debug\netcoreapp3.1\ViewModelExemple.dll
+C:\Users\BRUNO\Desktop\ViewModelExemple\bin\Debug\netcoreapp3.1\ViewModelExemple.pdb
+C:\Users\BRUNO\Desktop\ViewModelExemple\obj\Debug\netcoreapp3.1\ViewModelExemple.csprojAssemblyReference.cache
+C:\Users\BRUNO\Desktop\ViewModelExemple\obj\Debug\netcoreapp3.1\ViewModelExemple.AssemblyInfoInputs.cache
+C:\Users\BRUNO\Desktop\ViewModelExemple\obj\Debug\netcoreapp3.1\ViewModelExemple.AssemblyInfo.cs
+C:\Users\BRUNO\Desktop\ViewModelExemple\obj\Debug\netcoreapp3.1\ViewModelExemple.csproj.CoreCompileInputs.cache
+C:\Users\BRUNO\Desktop\ViewModelExemple\obj\Debug\netcoreapp3.1\ViewModelExemple.dll
+C:\Users\BRUNO\Desktop\ViewModelExemple\obj\Debug\netcoreapp3.1\ViewModelExemple.pdb
+C:\Users\BRUNO\Desktop\ViewModelExemple\obj\Debug\netcoreapp3.1\ViewModelExemple.genruntimeconfig.cache
+C:\Users\BRUNO\Desktop\ViewModelExemple\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\BRUNO\Desktop\ViewModelExemple\obj\Debug\netcoreapp3.1\ViewModelExemple.csproj.CopyComplete
+C:\Users\BRUNO\Desktop\ViewModelExemple\bin\Debug\netcoreapp3.1\AutoMapper.dll
